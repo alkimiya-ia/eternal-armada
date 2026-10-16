@@ -30,3 +30,7 @@ Treat these values as historical snapshots.
 ## Internal recommendation
 
 For La Última Guardia, Atado a los suyos is the preferred primary end-screen recommendation because of its close thematic and chronological fit.
+
+## Creative development
+
+- [Initial narrative / musical / visual script](./development/initial-script.md)

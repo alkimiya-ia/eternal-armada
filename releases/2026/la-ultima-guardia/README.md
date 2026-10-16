@@ -28,3 +28,7 @@ Secondary element: main Eternal Armada discography playlist.
 ## Historical figure
 
 Saturnino Martín Cerezo should be named in the description as the officer who ultimately led the final phase of the resistance.
+
+## Creative development
+
+- [Initial narrative / musical / visual script](./development/initial-script.md)
