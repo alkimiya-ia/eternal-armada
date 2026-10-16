@@ -30,14 +30,14 @@ The preferred visual tone is cinematic historical realism, with Cartagena / nava
 
 ## Production documentation
 
-The original Word production work has been converted into repository-friendly Markdown and reorganized into smaller files:
+The original Word production work has been converted to Markdown and stored inside this release folder.
 
+Working documents:
 - [Concept and visual bible](./production/01-concept-visual-bible.md)
 - [Temporal structure](./production/02-temporal-structure.md)
-- [Storyboard scenes 01–12](./production/03-storyboard-01-12.md)
-- [Storyboard scenes 13–24](./production/03-storyboard-13-24.md)
-- [Storyboard scenes 25–36](./production/03-storyboard-25-36.md)
-- [Storyboard scenes 37–48](./production/03-storyboard-37-48.md)
-- [Storyboard scenes 49–58](./production/03-storyboard-49-58.md)
-- [Production notes, continuity, editing, final scene and thumbnails](./production/04-production-notes.md)
-- [Original production-generation prompt](./production/production-prompt.md)
+
+Complete archives:
+- [Full production bible and 58-scene storyboard](./production/production-bible-full.md)
+- [Production-generation prompt](./production/production-prompt.md)
+
+The full bible retains the detailed storyboard fields, image prompts, motion prompts, historical constraints, continuity plan, editing plan, final scene and thumbnail concepts from the Word source.
